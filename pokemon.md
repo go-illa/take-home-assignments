@@ -1,6 +1,6 @@
 # Pokemon gallery - Take-home assignment
 
-In this take-home assignment, you'll build a **Pokemon gallery using React.js**.
+In this take-home assignment, you'll build a **Pokemon gallery using React and TypeScript**.
 
 ## 💻 Application requirements
 
